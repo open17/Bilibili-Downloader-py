@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 href=" open17.github.io/vuepress-theme-qbook/" align="center">Bilibili Downloader Cli</h1>
+    <h1 href=" open17.github.io/vuepress-theme-qbook/" align="center">Bilibili Downloader</h1>
     <p align="center">< 轻量级b站视频下载器 ></p>
     <p align="center">
         <a href=""><img src="https://img.shields.io/badge/下载-视频-pink?style=flat-square" alt="video"></a>
